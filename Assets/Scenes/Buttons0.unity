@@ -2042,6 +2042,8 @@ MonoBehaviour:
   achievementsButtonBg: {fileID: 591759661}
   reviewButton: {fileID: 1126562875}
   reviewButtonBg: {fileID: 1731177968}
+  removeAdsButton: {fileID: 1480995648}
+  removeAdsButtonBg: {fileID: 310605157}
 --- !u!4 &245181007
 Transform:
   m_ObjectHideFlags: 0
